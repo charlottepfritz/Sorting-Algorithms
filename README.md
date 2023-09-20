@@ -2,7 +2,7 @@
 
 Welcome to the Sorting Algorithm Visualization and Comparison program! This Processing project allows you to visualize and compare the performance of four popular sorting algorithms: Quick Sort, Selection Sort, Insertion Sort, and Bubble Sort. Gain insights into their sorting efficiency and see how they stack up against each other.
 
-![Visualization Screenshot](screenshot.png)
+![Visualization Screenshot](sorting-algorithims.png)
 
 ## Table of Contents
 
